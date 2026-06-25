@@ -1,0 +1,57 @@
+# פיצה על גלגלים — Generative Engine Optimization Map
+
+> A pizza food truck business seeking a landing page to showcase their mobile pizza offering. The brand is built around a food truck concept, suggesting a casual, street-food atmosphere with a focus on fresh, on-the-go pizza.
+
+---
+
+## Pages
+
+### דף הבית
+https://-80641d20.zappy5.app
+מחפשים אוכל רחוב אותנטי? פיצה על גלגלים מגיעה עד אליכם עם פיצות טריות, בצק פריך ותוספות משגעות. חפשו את טנדר הפיצה הנייד שלנו ותיהנו מביס מושלם בכל פינה. בואו לאכול אוכל של משאיות אוכל!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-80641d20.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-80641d20.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-80641d20.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פיצה על גלגלים
+A pizza food truck business seeking a landing page to showcase their mobile pizza offering. The brand is built around a food truck concept, suggesting a casual, street-food atmosphere with a focus on fresh, on-the-go pizza.
+
+## Services/Products
+- פיצה
+
+## Target Audience
+- אנשי מקצוע עסוקים
+- סטודנטים במכללות
+- חובבי חיי לילה
+
+## Industry
+Food Truck / Restaurant
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-80641d20.zappy5.app/sitemap.xml
+- Robots: https://-80641d20.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-80641d20.zappy5.app/llms-full.txt
