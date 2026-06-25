@@ -7,21 +7,21 @@
 ## Pages
 
 ### דף הבית
-https://example.com
+https://pizza-al-galgalim.zappy5.app
 מחפשים אוכל רחוב אותנטי? פיצה על גלגלים מגיעה עד אליכם עם פיצות טריות, בצק פריך ותוספות משגעות. חפשו את טנדר הפיצה הנייד שלנו ותיהנו מביס מושלם בכל פינה. בואו לאכול אוכל של משאיות אוכל!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://pizza-al-galgalim.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://pizza-al-galgalim.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://pizza-al-galgalim.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -52,6 +52,6 @@ Food Truck / Restaurant
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://pizza-al-galgalim.zappy5.app/sitemap.xml
+- Robots: https://pizza-al-galgalim.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://pizza-al-galgalim.zappy5.app/llms-full.txt
